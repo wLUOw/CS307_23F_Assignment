@@ -8,3 +8,7 @@ Score: 1000/1000
 ## Assignment 2: Complex Query
 Questions: 6/6 \
 Score: 1000/1000
+
+## Assignment 3: Window Func && Combine Query
+Questions: 6/6 \
+Score: 1000/1000
