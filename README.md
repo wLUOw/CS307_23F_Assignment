@@ -12,3 +12,7 @@ Score: 1000/1000
 ## Assignment 3: Window Func && Combine Query
 Questions: 6/6 \
 Score: 1000/1000
+
+## Assignment 4: Window Func && Combine Query
+Questions: 6/6 \
+Score: 1000/1000
