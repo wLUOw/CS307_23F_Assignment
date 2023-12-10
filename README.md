@@ -13,6 +13,6 @@ Score: 1000/1000
 Questions: 6/6 \
 Score: 1000/1000
 
-## Assignment 4: Window Func && Combine Query
+## Assignment 4: Trigger
 Questions: 1/1 \
 Score: 100/100
